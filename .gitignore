@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Sensitive API Keys & Config
+.env
+firebase_key.json
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary downloads & local files
+downloads/*.xml
+downloads/*.pdf
+.idea/
+.vscode/
