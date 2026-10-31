@@ -1,5 +1,5 @@
 {
-  "last_updated": "26 Oct 2026, 11:09 PM",
+  "last_updated": "31 Oct 2026, 09:52 AM",
   "data": [
     {
       "ticker": "20MICRONS",
@@ -50056,6 +50056,293 @@
         },
         "Criteria 6: Non-Compliant Inv": {
           "metric": "0.11% (\u20b911 Cr)",
+          "threshold": "< 33.0%",
+          "status": true
+        }
+      }
+    },
+    {
+      "ticker": "DIVISLAB",
+      "bse_code": "N/A",
+      "sector": "Healthcare",
+      "market_cap_cr": 259628.27,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": true,
+      "failure_reason": "",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "2.71% (\u20b9284 Cr)",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "0.03%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "63.57%",
+          "threshold": ">= 20.0%",
+          "status": true
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b9-36 Cr | MCap: \u20b9259,628 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "16.19% (\u20b93,244 Cr)",
+          "threshold": "< 33.0%",
+          "status": true
+        }
+      }
+    },
+    {
+      "ticker": "HEROMOTOCO",
+      "bse_code": "N/A",
+      "sector": "Consumer Cyclical",
+      "market_cap_cr": 103423.61,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": false,
+      "failure_reason": "Criteria breach",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "0.62% (\u20b9293 Cr)",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "2.33%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "29.57%",
+          "threshold": ">= 20.0%",
+          "status": true
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b91,300 Cr | MCap: \u20b9103,424 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "46.30% (\u20b915,489 Cr)",
+          "threshold": "< 33.0%",
+          "status": false
+        }
+      }
+    },
+    {
+      "ticker": "VSTIND",
+      "bse_code": "N/A",
+      "sector": "Consumer Defensive",
+      "market_cap_cr": 3145.03,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": true,
+      "failure_reason": "",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "0.64% (\u20b99 Cr)",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "0.00%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "45.71%",
+          "threshold": ">= 20.0%",
+          "status": true
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b912 Cr | MCap: \u20b93,145 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "27.71% (\u20b9559 Cr)",
+          "threshold": "< 33.0%",
+          "status": true
+        }
+      }
+    },
+    {
+      "ticker": "TVSMOTOR",
+      "bse_code": "N/A",
+      "sector": "Consumer Cyclical",
+      "market_cap_cr": 199366.93,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": false,
+      "failure_reason": "Criteria breach",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "13.13% (\u20b96,256 Cr)",
+          "threshold": "< 5.0%",
+          "status": false
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "58.04%",
+          "threshold": "< 33.0%",
+          "status": false
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "30.42%",
+          "threshold": ">= 20.0%",
+          "status": true
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b9-41,322 Cr | MCap: \u20b9199,367 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "1.64% (\u20b9928 Cr)",
+          "threshold": "< 33.0%",
+          "status": true
+        }
+      }
+    },
+    {
+      "ticker": "TATAELXSI",
+      "bse_code": "N/A",
+      "sector": "Technology",
+      "market_cap_cr": 23611.79,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": false,
+      "failure_reason": "Criteria breach",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "3.66% (\u20b9137 Cr)",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "4.10%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "6.67%",
+          "threshold": ">= 20.0%",
+          "status": false
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b9728 Cr | MCap: \u20b923,612 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "50.79% (\u20b92,013 Cr)",
+          "threshold": "< 33.0%",
+          "status": false
+        }
+      }
+    },
+    {
+      "ticker": "SUZLON",
+      "bse_code": "N/A",
+      "sector": "Industrials",
+      "market_cap_cr": 46600.38,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": true,
+      "failure_reason": "",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "0.62% (\u20b9102 Cr)",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "5.20%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "41.92%",
+          "threshold": ">= 20.0%",
+          "status": true
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b9-7,853 Cr | MCap: \u20b946,600 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "11.42% (\u20b92,154 Cr)",
+          "threshold": "< 33.0%",
+          "status": true
+        }
+      }
+    },
+    {
+      "ticker": "AMBER",
+      "bse_code": "N/A",
+      "sector": "Consumer Cyclical",
+      "market_cap_cr": 20684.55,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": true,
+      "failure_reason": "",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "0.80% (\u20b995 Cr)",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "19.62%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "85.02%",
+          "threshold": ">= 20.0%",
+          "status": true
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b9-6,845 Cr | MCap: \u20b920,685 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "9.86% (\u20b91,357 Cr)",
           "threshold": "< 33.0%",
           "status": true
         }
