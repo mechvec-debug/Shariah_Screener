@@ -1,5 +1,5 @@
 {
-  "last_updated": "31 Oct 2026, 09:52 AM",
+  "last_updated": "17 Nov 2026, 05:04 PM",
   "data": [
     {
       "ticker": "20MICRONS",
@@ -50343,6 +50343,129 @@
         },
         "Criteria 6: Non-Compliant Inv": {
           "metric": "9.86% (\u20b91,357 Cr)",
+          "threshold": "< 33.0%",
+          "status": true
+        }
+      }
+    },
+    {
+      "ticker": "HDFCBANK",
+      "bse_code": "500180",
+      "sector": "Financial Services",
+      "market_cap_cr": 1257654.78,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": false,
+      "failure_reason": "Criteria breach",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "134.65% (\u20b9336,026 Cr)",
+          "threshold": "< 5.0%",
+          "status": false
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "12.63%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "11.97%",
+          "threshold": ">= 20.0%",
+          "status": false
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b9-4,346,050 Cr | MCap: \u20b91,257,655 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "14.41% (\u20b9758,151 Cr)",
+          "threshold": "< 33.0%",
+          "status": true
+        }
+      }
+    },
+    {
+      "ticker": "ICICIBANK",
+      "bse_code": "532174",
+      "sector": "Financial Services",
+      "market_cap_cr": 1148002.76,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": false,
+      "failure_reason": "Criteria breach",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "87.38% (\u20b9195,218 Cr)",
+          "threshold": "< 5.0%",
+          "status": false
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "7.12%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "1.35%",
+          "threshold": ">= 20.0%",
+          "status": false
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b9-2,534,927 Cr | MCap: \u20b91,148,003 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "24.60% (\u20b9717,041 Cr)",
+          "threshold": "< 33.0%",
+          "status": true
+        }
+      }
+    },
+    {
+      "ticker": "SBIN",
+      "bse_code": "500112",
+      "sector": "Financial Services",
+      "market_cap_cr": 1023306.24,
+      "financial_date": "31 Mar 2026",
+      "is_compliant": false,
+      "failure_reason": "Criteria breach",
+      "metrics": {
+        "Criteria 1: Core Business": {
+          "metric": "0.00%",
+          "threshold": "< 5.0%",
+          "status": true
+        },
+        "Criteria 2: Impermissible Income": {
+          "metric": "197.86% (\u20b9514,933 Cr)",
+          "threshold": "< 5.0%",
+          "status": false
+        },
+        "Criteria 3: Debt / Assets": {
+          "metric": "8.74%",
+          "threshold": "< 33.0%",
+          "status": true
+        },
+        "Criteria 4: Illiquid / Assets": {
+          "metric": "2.28%",
+          "threshold": ">= 20.0%",
+          "status": false
+        },
+        "Criteria 5: Net Liquid < MCap": {
+          "metric": "Net Liq: \u20b9-7,706,669 Cr | MCap: \u20b91,023,306 Cr",
+          "threshold": "Net Liquid < MCap",
+          "status": true
+        },
+        "Criteria 6: Non-Compliant Inv": {
+          "metric": "1.58% (\u20b9131,870 Cr)",
           "threshold": "< 33.0%",
           "status": true
         }
